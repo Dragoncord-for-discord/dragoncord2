@@ -1,0 +1,23 @@
+{
+  "name": "dragoncord2",
+  "version": "1.0.0",
+  "description": "Dragoncord 2 is a new Dragoncord",
+  "main": "index.js",
+  "scripts": {
+  	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "client",
+    "discord-client",
+    "electron",
+    "js",
+    "electron.js"
+  ],
+  "author": "dragonfire-community",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "15.5.7"
+  }
+}
