@@ -1,3 +1,5 @@
+x | Dragoncord v2 is deprecated
+
 # dragoncord2
 New modern web Discord Client
 
